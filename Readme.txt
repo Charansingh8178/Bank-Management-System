@@ -5,3 +5,5 @@ You need to install python mysql.connector and create a database in MySql named 
 
 1. To Create Table.py file which will create a table into your MySQL database.
  Then launch the main file named" bank management".
+
+If Having any issues feel free to raise queries.
